@@ -6,10 +6,12 @@ import { PagesRoutingModule } from './pages-routing.module';
 
 //Components
 import { HomeComponent } from './home/home.component';
+import { DetailsComponent } from './details/details.component';
 
 @NgModule({
   declarations: [
-    HomeComponent
+    HomeComponent,
+    DetailsComponent
   ],
   imports: [
     CommonModule,
