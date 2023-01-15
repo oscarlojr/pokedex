@@ -14,7 +14,7 @@ export class PokeSearchComponent implements OnInit {
   }
 
   public search(value: string){
-    console.log(value);
+    this.emmitPokemon.emit(value);
   }
 
 }
