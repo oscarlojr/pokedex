@@ -7,7 +7,7 @@
 </p>
 
  <h1 align="center"> 
-  <img alt="Lista de Pokemons" title="#Pokedex" src="assets/bg/pokedex.gif"/>
+  <img alt="Lista de Pokemons" title="#Pokedex" src="src/assets/bg/pokedex.gif"/>
 </h1>
 
 ## :gear: Funcionalidades do projeto
