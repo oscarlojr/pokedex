@@ -6,9 +6,9 @@
  :test_tube: Proposta do projeto :nerd_face:
 </p>
 
- <h1 align="center"> 
+ <p align="center"> 
   <img alt="Lista de Pokemons" title="#Pokedex" src="src/assets/bg/pokedex.gif"/>
-</h1>
+</p>
 
 ## :gear: Funcionalidades do projeto
 
